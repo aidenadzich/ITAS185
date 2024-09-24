@@ -1,3 +1,9 @@
+"""
+ITAS 185
+AIDEN ADZICH
+LAB 03, PART A
+This program shows various outputs from manipulating lists
+"""
 list_one = [
     -245, 230, -198, 187, -176, 165, -154, 143, -132, 121,
     -110, 99, 88, 77, -66, 55, -44, 33, -22, 11,

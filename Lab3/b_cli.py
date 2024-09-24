@@ -1,3 +1,10 @@
+"""
+ITAS 185
+AIDEN ADZICH
+LAB 03, PART B
+This program shows a range of numbers based on user input using Argv
+"""
+
 import sys
 
 
