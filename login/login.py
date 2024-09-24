@@ -1,6 +1,8 @@
 import hashlib
 
+# Cannot save more than 1 login!
 def signup():
+
     email = input("Enter email address: ")
     pwd = input("Enter password: ")
     conf_pwd = input("Confirm password: ")     
@@ -13,7 +15,7 @@ def signup():
             f.write(email + "\n")
             f.write(hash1)
     f.close()
-    print("You have registered successfully!")     
+    print("You have registered successfully!")
    
 def login():
      email = input("Enter email: ")
@@ -31,6 +33,14 @@ def login():
          print("Login failed! \n")
 
 while 1:
+    print(""" 
+ _    _      _                          
+| |  | |    | |                         
+| |  | | ___| | ___ ___  _ __ ___   ___ 
+| |/\| |/ _ \ |/ __/ _ \| '_ ` _ \ / _ 
+\  /\  /  __/ | (_| (_) | | | | | |  __/
+ \/  \/ \___|_|\___\___/|_| |_| |_|\___|
+          """)
     print("********** Login System **********")
     print("1.Signup")
     print("2.Login")
