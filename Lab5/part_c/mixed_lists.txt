@@ -1,0 +1,7 @@
+[2, 5.0, "cat", 10, 43.2, "dog"]
+[2, 4, 6, 8, 10]
+["Malcolm", "Zoe", "Hoban", "Inara", "Jayne"]
+[1.2, 3.4, 5.6, 7.8]
+[]
+[5.0, "Cybermen", "Daleks", "Weeping Angels", 6]
+[-2, -4, -6, -1000, -14]

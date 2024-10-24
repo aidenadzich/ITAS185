@@ -1,0 +1,26 @@
+----- this is line 1
+             this is line 2                 ------     
+    -----_____    --   __ This is line 3
+And another line
+            Isn't this fun?
+And so very interesting
+123
+3456
+4523
+Notice the above numbers are strings
+this is a test with newline
+And a second line?
+
+Line 1 written to file
+Line 2 written to file
+Line 3 written to file
+Line 4 written to file
+Line 5 written to file
+Line 1 written to file
+Line 2 written to file
+Line 3 written to file
+Line 4 written to file
+Line 5 written to file
+Append the line to the file
+Append the line to the file
+This is a line 0This is a line 1This is a line 2This is a line 3This is a line 4This is a line 0This is a line 1This is a line 2This is a line 3This is a line 4
