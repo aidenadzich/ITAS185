@@ -1,0 +1,4 @@
+django
+prettytable
+numpy
+coverage
