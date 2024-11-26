@@ -1,0 +1,47 @@
+African Elephant, Loxodonta africana
+Bald Eagle, Haliaeetus leucocephalus
+Bengal Tiger, Panthera tigris tigris
+Blue Whale, Balaenoptera musculus
+California Condor, Gymnogyps californianus
+Cheetah, Acinonyx jubatus
+Chimpanzee, Pan troglodytes
+Common Bottlenose Dolphin, Tursiops truncatus
+Eastern Gray Squirrel, Sciurus carolinensis
+Emperor Penguin, Aptenodytes forsteri
+European Hedgehog, Erinaceus europaeus
+Galápagos Tortoise, Chelonoidis nigra
+Giant Panda, Ailuropoda melanoleuca
+Golden Eagle, Aquila chrysaetos
+Gray Wolf, Canis lupus
+Great White Shark, Carcharodon carcharias
+Green Sea Turtle, Chelonia mydas
+Harpy Eagle, Harpia harpyja
+Hippopotamus, Hippopotamus amphibius
+Honey Bee, Apis mellifera
+House Sparrow, Passer domesticus
+Indian Peafowl, Pavo cristatus
+Jaguar, Panthera onca
+Koala, Phascolarctos cinereus
+Leopard, Panthera pardus
+Lion, Panthera leo
+Monarch Butterfly, Danaus plexippus
+Mountain Gorilla, Gorilla beringei beringei
+North American Beaver, Castor canadensis
+Orangutan, Pongo pygmaeus
+Polar Bear, Ursus maritimus
+Red Fox, Vulpes vulpes
+Red Kangaroo, Macropus rufus
+Red Panda, Ailurus fulgens
+Ring-tailed Lemur, Lemur catta
+Snow Leopard, Panthera uncia
+Southern Right Whale, Eubalaena australis
+Sperm Whale, Physeter macrocephalus
+Spotted Hyena, Crocuta crocuta
+Tasmanian Devil, Sarcophilus harrisii
+Tiger Shark, Galeocerdo cuvier
+Western Lowland Gorilla, Gorilla gorilla gorilla
+White Rhinoceros, Ceratotherium simum
+Wolverine, Gulo gulo
+Woodland Caribou, Rangifer tarandus caribou
+Yellowfin Tuna, Thunnus albacares
+Zebra, Equus quagga

@@ -72,8 +72,6 @@ def draw_house():
     house.goto(-190, 25)
     circle(50, "green")
 
-
-
 draw_house()
 
 t.exitonclick()
